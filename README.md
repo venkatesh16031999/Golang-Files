@@ -1,5 +1,9 @@
 # Golang-Files
 
+## Resources
+
+https://tutorialedge.net/course/golang/
+
 ## Packages
 
 ### All the below mentioned standard library package method implementations and concepts are available in level one directory
