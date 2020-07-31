@@ -15,4 +15,4 @@ https://tutorialedge.net/course/golang/
 5. path
 6. os
 7. time
-8. math
+8. math | math/rand
